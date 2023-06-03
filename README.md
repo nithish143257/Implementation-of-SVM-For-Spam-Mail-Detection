@@ -21,7 +21,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 /*
 Program to implement the SVM For Spam Mail Detection..
 Developed by: Nithish Kumar P
-RegisterNumber: 212221040113
+RegisterNumber: 212221040115
 /*
 ```
 ```
